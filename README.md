@@ -1,3 +1,5 @@
+# HR Attrition Analysis Dashboard
+![Dashboard](Dashboard.png)
 HR Attrition Analysis Dashboard 📊
 
 📌 Project Overview
