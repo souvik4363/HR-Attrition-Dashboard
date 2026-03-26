@@ -5,6 +5,7 @@ HR Attrition Analysis Dashboard 📊
 📌 Project Overview
 
 This project analyzes employee attrition using Power BI to identify key factors affecting employee turnover.
+It helps HR teams make data-driven decisions to reduce attrition and improve employee retention.
 
 📊 Dashboard Features
 
@@ -17,14 +18,17 @@ This project analyzes employee attrition using Power BI to identify key factors 
 🔍 Key Insights
 
 - Attrition rate is 23%
+- Higher attrition observed in low experience employees
 - Employees without promotion have higher attrition
 - Low feedback leads to higher attrition
 
-🛠 Tools Used
+🛠 Tools & Skills Used
 
 - Power BI
-- DAX
-- Excel
+- Data Cleaning
+- Data Visualization
+- DAX (Data Analysis Expressions)
+- Business Analysis
 
 📸 Dashboard Preview
 
